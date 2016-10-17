@@ -1,2 +1,2 @@
 # piskvorky.py
-Piskvorky pro 2 hrace
+Game "Piskvorky" for 2 players
